@@ -6,6 +6,14 @@ html {
     color: #ffffff;
   }
 
+
+a {
+    color: #ffffff;
+    text-decoration: underline;
+    }
+
+Add this code in your CSS
+
   #input-message {
     color: #ffffff;
   }
